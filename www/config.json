@@ -1,6 +1,6 @@
 {
     "app_id" : "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
+    "appname": "Custom Moodle Mobile",
     "versioncode" : "2017",
     "versionname" : "3.2.2",
     "siteurl": "http://mycustommoodleapp.com",
